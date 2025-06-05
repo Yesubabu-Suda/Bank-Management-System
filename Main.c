@@ -1,17 +1,17 @@
 #include"my_header.h"
 int main()
 {
-        BANK *head=NULL;
+        BANK *head=NULL;//declartion of structure.
         char ch;
-        head=Sync_File(head);
+        head=Sync_File(head);//sync data from file previous data.
         if(head==NULL)
         {
-                printf("data is empty:\n");
+                printf("data is empty:\n");//checking previous data is there or not.
         }
         while(1)
         {
                 Print_menu();
-                __fpurge(stdin);
+                __fpurge(stdin);//clearing input buffer.
                 scanf("%c",&ch);
                 switch(ch)
                 {
