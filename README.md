@@ -95,7 +95,7 @@ File Structure:
 - my_header.h           : Structure and typedef definitions.
 - my_header.h           : Function prototypes.
 - makefile              : Build automation.
-- MY_BANK.txt           : Saved informaion.
+- Filename.txt           : Saved informaion.
 
 Persistence:
 ------------
