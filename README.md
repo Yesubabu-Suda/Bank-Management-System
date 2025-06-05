@@ -9,7 +9,6 @@ I have followed all the ethical guidelines for software development and acknowle
 
 Submitted by:
 [SUDA.YESUBABU]
-[V24HE6S6]
 
 Description:
 ------------
@@ -59,7 +58,7 @@ $ make clean
 Execution:
 ----------
 To run the application:
-$ ./bank
+$ ./Bank
 
 Menu Options:
 -------------
