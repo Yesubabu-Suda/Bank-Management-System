@@ -33,7 +33,7 @@ if your finding specific account you enter account number.
 Features:
 ---------
 - Create a new account
-- View last 5 transactions
+- View transactions
 - Withdraw money
 - Deposit money
 - Balance enquiry
@@ -94,7 +94,7 @@ File Structure:
 - my_header.h           : Structure and typedef definitions.
 - my_header.h           : Function prototypes.
 - makefile              : Build automation.
-- Filename.txt           : Saved informaion.
+- Filename.txt           : Save the informaion.
 
 Persistence:
 ------------
